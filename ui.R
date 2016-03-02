@@ -182,7 +182,6 @@ shinyUI(
                         tabPanel("Github Link",
                                  wellPanel(
                                    h4("DDP"),
-                                   helpText("The Github repository containing the code for this application."),
                                    helpText(a("The Github repository containing the code for this application.",href="https://github.com/DRLR/DDP/"))
                    
                                  )
